@@ -1,9 +1,9 @@
 package Basic;
 
-public class Pattern1 {
+public class HexagonArea {
 
 	public static void main(String[] args) {
-	String n1 = "J  a  v   v  a"
+		// TODO Auto-generated method stub
 
 	}
 
