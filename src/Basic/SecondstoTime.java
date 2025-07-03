@@ -11,10 +11,10 @@ public class SecondstoTime {
 		
 		int n1 = scanner.nextInt();
 		
-		int s = n1 %60;
-		int h = n1 /60;
-		int m = h % 60;
-		h = h/60;
+		int s = n1 %60; // seconds
+		int h = n1 /60; // second - minute
+		int m = h % 60; // left minutes 
+		h = h/60; // minute to hour
 		
 		System.out.print(h + ":" + m + ":" + s + ":");
 

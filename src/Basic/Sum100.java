@@ -1,9 +1,9 @@
 package Basic;
 
-public class CountDivisibles {
+public class Sum100 {
 
 	public static void main(String[] args) {
-		
+		// TODO Auto-generated method stub
 
 	}
 
